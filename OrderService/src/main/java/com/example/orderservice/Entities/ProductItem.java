@@ -23,4 +23,7 @@ public class ProductItem {
    @ManyToOne
    @JsonProperty(access = JsonProperty.Access.WRITE_ONLY) // pour dire que cette propriété est en mode écriture seulement pas de lecture
    private Order order;
+   public double getAmount(){
+      return (price * qty) *(1-discount);
+   }
 }

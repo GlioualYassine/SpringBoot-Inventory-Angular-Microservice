@@ -2,13 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../Config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Config-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../CustomerService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../CustomerService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Gateway0/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../InventoryService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../InventoryService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../OrderService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OrderService/src/main/resources" charset="UTF-8" />
     <file url="file://$USER_HOME$/OneDrive/Desktop/Billing/Billing/src/main/java" charset="UTF-8" />
   </component>
 </project>
